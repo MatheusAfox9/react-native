@@ -94,8 +94,8 @@ const styles = StyleSheet.create({
       alignItems: 'center', // Centraliza o texto dentro do botão
     },
     buttonText: {
-      color: '#fff',
-      fontWeight: 'bold',
+      color: 'black',
+      fontWeight: 'bolder',
       fontSize: 14, // Ajusta o tamanho do texto no botão
     },
 });
